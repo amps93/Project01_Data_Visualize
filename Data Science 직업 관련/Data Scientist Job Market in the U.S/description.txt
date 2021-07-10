@@ -1,0 +1,8 @@
+Context
+For those who are actively looking for data scientist jobs in the U.S., the best news this month is the LinkedIn Workforce Report August 2018. According to the report, there is a shortage of 151,717 people with data science skills, with particularly acute shortages in New York City, San Francisco Bay Area and Los Angeles.
+
+To help job hunters (including me) to better understand the job market, I scraped Indeed website and collected information of 7,000 data scientist jobs around the U.S. on August 3rd. The information that I collected are: Company Name, Position Name, Location, Job Description, and Number of Reviews of the Company.
+
+Content
+-alldata.csv If you want to explore the job market around the U.S., download this one because it aggregates all information and cleans the job description by removing the tags.
+-all other files. If you want to explore specific city or region, you can download any of them.
